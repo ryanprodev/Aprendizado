@@ -5,7 +5,7 @@
 #### A_Fundamentos da linguagem
 - [x] Lógica de programação
 - [x] Variáveis
-- [ ] Comentários
+- [x] Comentários
 - [x] Tipos primitivos
 - [ ] Operadores
 - [ ] Laços condicionais
