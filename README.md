@@ -6,7 +6,7 @@
 - [x] Lógica de programação
 - [x] Variáveis
 - [ ] Comentários
-- [ ] Tipos primitivos
+- [x] Tipos primitivos
 - [ ] Operadores
 - [ ] Laços condicionais
 - [ ] Estrutura de repetição
