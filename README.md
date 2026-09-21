@@ -8,8 +8,8 @@
 - [x] Comentários
 - [x] Tipos primitivos
 - [x] Operadores
-- [ ] Laços condicionais
-- [ ] Estrutura de repetição
+- [x] Laços condicionais
+- [x] Estrutura de repetição
 - [ ] Arrays
 
 #### Programação Orientada a Objetos (POO)
@@ -72,3 +72,25 @@ Usados para combinar expressões booleanas.
 | `&&` | E lógico (AND) | `true && false` | `false` |
 | `\|\|` | OU lógico (OR) | `true \|\| false` | `true` |
 | `!` | Negação (NOT) | `!true` | `false` |
+
+---
+
+## 4. Laços Condicionais
+Permitem que o programa tome decisões e execute diferentes blocos de código com base em condições.
+
+| Estrutura | Descrição | Exemplo |
+| :--- | :--- | :--- |
+| `if` / `else` | Executa um bloco se a condição for verdadeira, senão executa outro. | `if (idade >= 18) { ... } else { ... }` |
+| `else if` | Testa múltiplas condições em sequência. | `if (nota >= 9) { ... } else if (nota >= 7) { ... }` |
+| `switch` | Seleciona um bloco de código dentre vários com base no valor de uma variável. | `switch (opcao) { case 1: ... break; }` |
+
+---
+
+## 5. Estruturas de Repetição (Loops)
+Usadas para repetir um bloco de código várias vezes enquanto uma condição for verdadeira.
+
+| Estrutura | Quando usar | Exemplo |
+| :--- | :--- | :--- |
+| `for` | Quando você **sabe** exatamente quantas vezes quer repetir algo. | `for (int i = 0; i < 10; i++) { ... }` |
+| `while` | Quando você **não sabe** o número de repetições, mas a condição é testada *antes*. | `while (contador < 5) { ... }` |
+| `do-while` | Igual ao `while`, mas garante que o bloco execute **pelo menos uma vez** antes de testar. | `do { ... } while (condicao);` |
