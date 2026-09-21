@@ -10,7 +10,7 @@
 - [x] Operadores
 - [x] Laços condicionais
 - [x] Estrutura de repetição
-- [ ] Arrays
+- [x] Arrays
 
 #### Programação Orientada a Objetos (POO)
 - [ ] Classes
